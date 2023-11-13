@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Halilibrahm
-- 👀 I’m i am interested in game development
-- 🌱 I’m I'm trying to learn c# ...
+- 👀 I’m i am interested
+- 🌱 I’m I'm trying 
 - 💞️ I’m looking to collaborate on ...
 - 📫 halilibrahimdemirdirek@gmail.com
 
